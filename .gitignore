@@ -1,0 +1,49 @@
+# Unity - recomendado
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Oo]bj/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio / JetBrains Rider
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Unity auto-generated
+*.unityproj
+*.tmproj
+*.log
+
+# Arquivos de cache ou locais
+*.bak
+*.swp
+*.tmp
+
+# Crash dumps
+*.stacktrace
+
+# Builds executáveis
+*.exe
+*.apk
+*.app
+*.ipa
+*.msi
+
+# Git
+.gitattributes

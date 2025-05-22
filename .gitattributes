@@ -1,0 +1,6 @@
+*.cs linguist-language=C#
+*.dll linguist-vendored
+*.exe linguist-vendored
+/Space invaders_Data linguist-vendored
+/D3D12 linguist-vendored
+/MonoBleedingEdge linguist-vendored
